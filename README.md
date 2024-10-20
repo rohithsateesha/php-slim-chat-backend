@@ -40,7 +40,6 @@ A simple chat application backend built with PHP and the Slim framework. This ap
    ```bash
    php -S localhost:8080 -t public
 
-
 ## API Endpoints
  - POST /users - Create a new user
  - GET /users/{id} - Get user details
