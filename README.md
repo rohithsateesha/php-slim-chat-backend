@@ -23,7 +23,7 @@ A simple chat application backend built with PHP and the Slim framework. This ap
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rohithsateesha/php-slim-chat-backed.git
+   git clone https://github.com/rohithsateesha/php-slim-chat-backend.git
    cd php-slim-chat-backed
 2. **Install dependencies:**
 
