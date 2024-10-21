@@ -3,3 +3,7 @@
 
 # SQLite database
 /database/database.sqlite
+
+# Logs and cache
+/logs/
+/cache/
