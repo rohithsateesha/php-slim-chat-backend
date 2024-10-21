@@ -16,6 +16,7 @@ A simple chat application backend built with PHP and the Slim framework. This ap
 - Eloquent ORM (Illuminate Database)
 - SQLite (for development)
 - Composer
+- PHPUnit (Testing Framework)
 
 ## Installation
 
